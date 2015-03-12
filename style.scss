@@ -1,0 +1,19 @@
+/**
+ * This is a SCSS skeleton based on SMACSS
+ *
+ * TABLE of CONTENTS:
+ *
+	+ Tools
+		- Variables
+		- Mixins
+	+ Base
+	+ State
+	+ Layout
+	+ Module
+ */
+
+ @import "tools/tools";
+ @import "base/base";
+ @import "state/state";
+ @import "layout/layout";
+ @import "module/module";
